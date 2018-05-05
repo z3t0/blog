@@ -1,0 +1,31 @@
+name: Rafi Khan's blog
+about: I am a curious individual who loves to explore, experiment and learn! I am a 2nd year Software Engineering student attending Carleton University. My hobbies include reading fantasy / sci-fi novels, as well as researching computer programming. I also have an interest in volunteering within the community, discussing philosophy and debating politics.
+
+master_repo: false
+url: "http://vinitkumar.me/white-paper"
+markdown: kramdown
+highlighter: rouge
+
+plugins: ['jekyll-paginate', 'jekyll-gist', 'jekyll-feed']
+
+paginate: 4
+
+logo:             
+disqus_shortname:
+
+rtl: false
+owner:
+  name:           Rafi Khan
+  avatar:         "https://avatars2.githubusercontent.com/u/9000061?s=260&u=c8c3b10194e871a6f3488ead3391cbd24857be86&v=4"
+  email:          "zetoslab@gmail.com"
+  twitter: z3t0_rk
+  github: https://github.com/z3t0
+  linkedin: https://www.linkedin.com/in/vrafi-k-88a520117
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+img_path: "/assets/img"
